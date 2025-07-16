@@ -1,3 +1,10 @@
+# 1.0.0-alpha.1 (2025-07-16)
+
+
+### Bug Fixes
+
+* code fix ([63f58cc](https://github.com/Aadinath16/repo1/commit/63f58cc839f2dc6d02a8de1aeefabbc3576a6937))
+
 # [1.0.0-beta.5](https://github.com/Aadinath16/repo1/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2025-07-16)
 
 
